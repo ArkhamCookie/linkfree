@@ -1,0 +1,13 @@
+# LinkFree
+
+A free and open source [Linktree](https://wikipedia.org/wiki/Linktree) alternative.
+
+## Steps
+
+1. Select a theme/template
+2. Select social media sites to add
+3. Input usernames and custom links
+
+## Attributions
+
+- [Lingica](https://www.favicon.cc/?action=icon_list&user_id=698102) for creating the [tree favicon](https://www.favicon.cc/?action=icon&file_id=1021089)
