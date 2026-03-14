@@ -16,11 +16,15 @@
     "type": "module",
     "scripts": {
         "lint:a11y": "be-a11y public/",
+        "lint:eslint": "eslint public/js/",
         "lint:spelling": "cspell lint .",
-        "lint": "pnpm run lint:a11y && pnpm run lint:spelling"
+        "lint": "pnpm run lint:a11y && pnpm run lint:spelling && pnpm run eslint"
     },
     "devDependencies": {
         "@belenkadev/be-a11y": "^1.0.0",
-        "cspell": "^9.7.0"
+        "@eslint/js": "^10.0.1",
+        "cspell": "^9.7.0",
+        "eslint": "^10.0.3",
+        "globals": "^17.4.0"
     }
 }
