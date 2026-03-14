@@ -26,4 +26,6 @@ The documenation should include steps for hosting on different platforms.
 
 ## Attributions
 
-- [Lingica](https://www.favicon.cc/?action=icon_list&user_id=698102) for creating the [tree favicon](https://www.favicon.cc/?action=icon&file_id=1021089)
+### Favicon
+
+The site favicon was created by [Lingica](https://www.favicon.cc/?action=icon_list&user_id=698102) and is [avaiable here](https://www.favicon.cc/?action=icon&file_id=1021089).
