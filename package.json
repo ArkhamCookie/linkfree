@@ -15,7 +15,8 @@
     "author": "ArkhamCookie",
     "scripts": {
         "lint:a11y": "be-a11y public/",
-        "lint:spelling": "cspell lint ."
+        "lint:spelling": "cspell lint .",
+        "lint": "pnpm run lint:a11y && pnpm run lint:spelling"
     },
     "devDependencies": {
         "@belenkadev/be-a11y": "^1.0.0",
