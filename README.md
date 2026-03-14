@@ -20,6 +20,10 @@ This tool to be a simple alternative that **anyone** can use to create and host 
 
 This tool should follow accessibility guidelines in both the website and the output.
 
+### Hosting Documenation
+
+The documenation should include steps for hosting on different platforms.
+
 ## Attributions
 
 - [Lingica](https://www.favicon.cc/?action=icon_list&user_id=698102) for creating the [tree favicon](https://www.favicon.cc/?action=icon&file_id=1021089)
