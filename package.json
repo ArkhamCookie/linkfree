@@ -14,9 +14,11 @@
     "license": "AGPL-3.0-only",
     "author": "ArkhamCookie",
     "scripts": {
-        "lint:a11y": "be-a11y public/"
+        "lint:a11y": "be-a11y public/",
+        "lint:spelling": "cspell lint ."
     },
     "devDependencies": {
-        "@belenkadev/be-a11y": "^1.0.0"
+        "@belenkadev/be-a11y": "^1.0.0",
+        "cspell": "^9.7.0"
     }
 }
