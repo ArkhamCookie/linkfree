@@ -47,6 +47,23 @@ This could be a separate file that is generated along with the html file.
 
 The site favicon was created by [Lingica](https://www.favicon.cc/?action=icon_list&user_id=698102) and is [available here](https://www.favicon.cc/?action=icon&file_id=1021089).
 
+### Tools Used
+
+Tools used to make this project what it is.
+
+#### Linting
+
+I run manage the packages and scripts using [pnpm](https://pnpm.io).
+
+##### Linters
+
+- [be-a11y](https://github.com/be-lenka/be-a11y)
+- [CSpell](https://cspell.org/)
+- [ESLint](https://eslint.org/)
+  - [ESLint Stylistic](https://eslint.style/)
+  - [globals](https://github.com/sindresorhus/globals)
+- [Stylelint](https://stylelint.io/)
+
 <!-- Footnotes -->
 
 [^1]: <https://en.wikipedia.org/wiki/Google_Analytics#Privacy>
