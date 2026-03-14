@@ -1,6 +1,6 @@
 # LinkFree
 
-A free and open source [Linktree](https://wikipedia.org/wiki/Linktree) alternative.
+A free and open source [Linktree](https://en.wikipedia.org/wiki/Linktree) alternative.
 
 ## Steps
 
