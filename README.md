@@ -20,9 +20,9 @@ This tool to be a simple alternative that **anyone** can use to create and host 
 
 This tool should follow accessibility guidelines in both the website and the output.
 
-### Hosting Documenation
+### Hosting Documentation
 
-The documenation should include steps for hosting on different platforms.
+The documentation should include steps for hosting on different platforms.
 
 ## Future Goals
 
@@ -38,7 +38,7 @@ one of my reasons for doing this whole project is that I am a strong believer in
 
 ### Favicon
 
-The site favicon was created by [Lingica](https://www.favicon.cc/?action=icon_list&user_id=698102) and is [avaiable here](https://www.favicon.cc/?action=icon&file_id=1021089).
+The site favicon was created by [Lingica](https://www.favicon.cc/?action=icon_list&user_id=698102) and is [available here](https://www.favicon.cc/?action=icon&file_id=1021089).
 
 <!-- Footnotes -->
 
