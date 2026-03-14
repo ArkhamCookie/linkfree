@@ -13,6 +13,7 @@
     },
     "license": "AGPL-3.0-only",
     "author": "ArkhamCookie",
+    "type": "module",
     "scripts": {
         "lint:a11y": "be-a11y public/",
         "lint:spelling": "cspell lint .",
