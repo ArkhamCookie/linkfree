@@ -8,7 +8,9 @@ A free and open source [Linktree](https://en.wikipedia.org/wiki/Linktree) altern
 2. Select social media sites to add
 3. Input usernames and custom links
 
-## Goals
+## Current Goals
+
+Goals I want to focus on **before** the `1.0.0` release.
 
 ### Be Simple
 
