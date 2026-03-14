@@ -1,0 +1,22 @@
+{
+    "name": "@arkhamcookie/linkfree",
+    "version": "0.1.0",
+    "private": "true",
+    "description": "A free and open source Linktree alternative.",
+    "homepage": "https://linkfree.arkhamcookie.com",
+    "bugs": {
+        "url": "https://github.com/ArkhamCookie/linkfree/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ArkhamCookie/linkfree.git"
+    },
+    "license": "AGPL-3.0-only",
+    "author": "ArkhamCookie",
+    "scripts": {
+        "lint": "node node_modules/@belenkadev/be-a11y/index.js public/"
+    },
+    "devDependencies": {
+        "@belenkadev/be-a11y": "^1.0.0"
+    }
+}
