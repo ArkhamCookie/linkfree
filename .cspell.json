@@ -1,0 +1,15 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "words": [
+        "arkhamcookie",
+        "linkfree",
+        "linktree",
+        "Lingica"
+    ],
+    "ignorePaths": [
+        "node_modules/**",
+        "package.json",
+        "pnpm-lock.yaml"
+    ]
+}
