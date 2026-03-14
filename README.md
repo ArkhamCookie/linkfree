@@ -34,6 +34,13 @@ A good feature of Linktree is being able to track how many people click your lin
 While I could create this using something like [Google Analytics](https://en.wikipedia.org/wiki/Google_Analytics),
 one of my reasons for doing this whole project is that I am a strong believer in privacy and Google is not a good company in regards to privacy.[^1][^2]
 
+### Restore from Old File
+
+Instead of having to recreate your whole link page every time you want to add a new link,
+I would like to make so you can restore based on an old file of some sort.
+
+This could be a separate file that is generated along with the html file.
+
 ## Attributions
 
 ### Favicon
