@@ -32,7 +32,7 @@ Goals I want to add at some point **after** the `1.0.0` release.
 
 A good feature of Linktree is being able to track how many people click your links.
 While I could create this using something like [Google Analytics](https://en.wikipedia.org/wiki/Google_Analytics),
-one of my reasons for doing this whole project is that I am a strong believer in privacy and Google is not a good company in regards to privacy[^1][^2].
+one of my reasons for doing this whole project is that I am a strong believer in privacy and Google is not a good company in regards to privacy.[^1][^2]
 
 ## Attributions
 
