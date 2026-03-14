@@ -1,1 +1,31 @@
+# Arkham's Java/TypeScript .gitignore
 # https://arkhamcookie.com
+
+# secrets
+.env*
+!.env.defaults
+!.env.example
+!.env.test*
+
+# package manager
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+yarn/
+deno.lock
+
+# cache
+.cache
+.trash
+.vite/
+.DS_Store
+
+# output
+out/
+npm/
+
+# conifgs
+.vscode/
+.idea/
+.vim
