@@ -5,7 +5,7 @@ import { expect, test } from 'vitest'
 test('make link with no icon', () => {
 	const link = new Link("website", "https://example.com");
 
-	expect(link.get()).toBe('<a href="https://example.com" aria-label="website link">website</a>');
+	expect(link.get()).toBe('<a class="link" href="https://example.com" aria-label="website link">website</a>');
 })
 
 test('make link with icon', () => {
