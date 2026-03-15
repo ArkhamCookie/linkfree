@@ -19,7 +19,8 @@
         "lint:css": "stylelint public/css/*.css",
         "lint:eslint": "eslint public/js/ lib/",
         "lint:spelling": "cspell lint .",
-        "lint": "pnpm run lint:a11y && pnpm run lint:css && pnpm run lint:eslint && pnpm run lint:spelling"
+        "lint": "pnpm run lint:a11y && pnpm run lint:css && pnpm run lint:eslint && pnpm run lint:spelling",
+				"test": "vitest run"
     },
     "devDependencies": {
         "@belenkadev/be-a11y": "^1.0.0",
@@ -29,6 +30,7 @@
         "eslint": "^10.0.3",
         "globals": "^17.4.0",
         "stylelint": "^17.4.0",
-        "stylelint-config-standard": "^40.0.0"
+        "stylelint-config-standard": "^40.0.0",
+        "vitest": "^4.1.0"
     }
 }
