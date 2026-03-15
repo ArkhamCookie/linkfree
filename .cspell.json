@@ -5,7 +5,8 @@
         "arkhamcookie",
         "linkfree",
         "linktree",
-        "Lingica"
+        "Lingica",
+        "Giebl"
     ],
     "ignorePaths": [
         "node_modules/**",
