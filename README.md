@@ -51,6 +51,10 @@ The site favicon was created by [Lingica](https://www.favicon.cc/?action=icon_li
 
 The get started button was designed by [Adam Giebl](https://github.com/adamgiebl) and you can [find it here](https://uiverse.io/adamgiebl/new-bird-34).
 
+### Icons
+
+This site uses [Simple Icons](https://simpleicons.org/) for brand icons.
+
 ### Tools Used
 
 Tools used to make this project what it is.
