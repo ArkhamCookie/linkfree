@@ -17,7 +17,7 @@
     "scripts": {
         "lint:a11y": "be-a11y public/",
         "lint:css": "stylelint public/css/*.css",
-        "lint:eslint": "eslint public/js/",
+        "lint:eslint": "eslint public/js/ lib/",
         "lint:spelling": "cspell lint .",
         "lint": "pnpm run lint:a11y && pnpm run lint:css && pnpm run lint:eslint && pnpm run lint:spelling"
     },
