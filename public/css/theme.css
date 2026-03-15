@@ -1,0 +1,121 @@
+/* MAIN VARIABLES */
+html[data-theme="dark"] html, html[data-theme="dark"] body {
+	--bg: #1F242A;
+	--bg-secondary: #323945;
+	--code-text: #91A7FF;
+	--headings: #74C0FC;
+	--highlight: #41C7C7;
+	--links: #91A7FF;
+	--share-text: #C4C4C4;
+	--text: #ADB5BD;
+	--text-secondary: #9CA3AF;
+}
+
+html[data-theme="light"] html, html[data-theme="light"] body {
+	--bg: #FFF;
+	--bg-secondary: #F3F4F6;
+	--code-text: #9D174D;
+	--headings: #1E293B;
+	--highlight: #FFECB2;
+	--links: #6366F1;
+	--share-text: #999;
+	--text: #374151;
+	--text-secondary: #6B7280;
+}
+
+@media (prefers-color-scheme: dark) {
+  body[data-theme="auto"] html, body[data-theme="auto"] body {
+	--bg: #1F242A;
+	--bg-secondary: #323945;
+	--code-text: #91A7FF;
+	--headings: #74C0FC;
+	--highlight: #41C7C7;
+	--links: #91A7FF;
+	--share-text: #C4C4C4;
+	--text: #ADB5BD;
+	--text-secondary: #9CA3AF;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  body[data-theme="auto"] html, body[data-theme="auto"] body {
+	--bg: #FFF;
+	--bg-secondary: #F3F4F6;
+	--code-text: #9D174D;
+	--headings: #1E293b;
+	--highlight: #FFECB2;
+	--links: #6366F1;
+	--share-text: #999;
+	--text: #374151;
+	--text-secondary: #6B7280;
+  }
+}
+
+/* MAIN COLORS */
+/* stylelint-disable-next-line no-descending-specificity */
+html, body {
+	background-color: var(--bg);
+	color: var(--text);
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: var(--headings);
+}
+
+p, strong, b, em, small, li, hr, table, figcaption {
+	color: var(--text);
+}
+
+blockquote {
+	background-color: var(--bg-secondary);
+	border: 1px var(--border) solid;
+}
+
+a {
+	color: var(--links);
+}
+
+*:target {
+	background-color: var(--bg-secondary);
+}
+
+mark {
+	background-color: var(--highlight);
+}
+
+p code, li code {
+	background-color: var(--bg-secondary);
+	color: var(--code-text);
+}
+
+/* TRANSITION */
+html.transition,
+html.transition *,
+html.transition *::before,
+html.transition *::after {
+	transition: all 250ms !important;
+	transition-delay: 0s !important;
+}
+
+/* TOGGLE BUTTON */
+#theme-toggle-btn {
+	color: var(--text);
+	background-color: transparent;
+	padding: 4px;
+	cursor: pointer;
+	margin: 1em;
+	position: fixed;
+	right: 0;
+	top: 0;
+	border: 2px transparent solid;
+	outline: none;
+}
+
+#theme-toggle-btn:hover {
+	color: var(--links);
+	outline: none;
+}
+
+#theme-toggle-btn:focus {
+	outline: none;
+}
