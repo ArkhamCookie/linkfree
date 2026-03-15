@@ -47,6 +47,10 @@ This could be a separate file that is generated along with the html file.
 
 The site favicon was created by [Lingica](https://www.favicon.cc/?action=icon_list&user_id=698102) and is [available here](https://www.favicon.cc/?action=icon&file_id=1021089).
 
+### UI Elements
+
+The get started button was designed by [Adam Giebl](https://github.com/adamgiebl) and you can [find it here](https://uiverse.io/adamgiebl/new-bird-34).
+
 ### Tools Used
 
 Tools used to make this project what it is.
